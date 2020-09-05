@@ -12,5 +12,7 @@ public class StartJava {
 		name= scanner.next();
 		System.out.println("너의 이름은 "+name +"나이는 " +  a) ;
 		 
+		System.out.println("코드추가 ");
+		
 	}
 }
